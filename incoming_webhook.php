@@ -6,7 +6,7 @@ switch ($mode) {
 	
 	case 'post':
 	default:
-		$slackURL = "https://hooks.slack.com/services/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";
+		$slackURL = "";
 		
 		$clientID = ""; // Get this from your app management screen
 		$clientSecret = ""; // Get this from your app management screen
